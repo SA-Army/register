@@ -1,0 +1,11 @@
+{
+  "description": "Documentation for is-a-dev",
+  "repo": "https://github.com/SA-Army/register",
+  "owner": {
+    "username": "SA-Army",
+    "email": "official@anveshraman.rf.gd"
+  },
+  "record": {
+    "CNAME": "sa-army.github.io"
+  }
+}
